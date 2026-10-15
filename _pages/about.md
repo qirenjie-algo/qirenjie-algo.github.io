@@ -23,6 +23,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I have been working at Huawei for over five years, focusing on active safety and end-to-end safety networks for autonomous driving. My work centers on developing safety-critical algorithms and data-driven approaches to enhance the safety and reliability of autonomous driving systems.
+I have been working at Huawei IAS BU for over five years, focusing on active safety and end-to-end safety networks for autonomous driving. My work centers on developing safety-critical algorithms and data-driven approaches to enhance the safety and reliability of autonomous driving systems.ADS 1.0 ~ ADS 5.0 have been successfully implemented on multiple vehicles.
 
 Previously,I received my bachelor's degree from Southeast University and my master's degree from Zhejiang University, with a research focus on robotic motion planning and motion control.
