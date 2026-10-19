@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "论文解读3：Scalable Diffusion Models with Transformers"
+title: "论文解读2：Scalable Diffusion Models with Transformers"
 date: 2026-10-18 15:00:00
 description: "分析diffusion和flow matching"
 categories: [Autonomous Driving]
